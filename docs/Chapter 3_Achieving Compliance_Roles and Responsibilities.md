@@ -1,5 +1,6 @@
 # Chapter 3. Achieving Compliance: Roles and Responsibilities
 본 챕터에서는 오픈소스 컴플라이언스 업무를 진행하는 주요 조직과 확장 조직에 대해 설명합니다.
+<span style="color:orange"></span>
 <br>
 <br>
 
